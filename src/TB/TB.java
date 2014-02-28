@@ -20,7 +20,8 @@ public class TB extends JFrame
 	private static final int MAX_CARS = 12;
 	private static final int MAX_LIGHTS = 3;
 	private static final int WEST_END = 0;
-	private static final int EAST_END = 1;
+	private static final int EAST_END = 1; 
+	private static String version = "base";
 
     // GUI variables	
 	private static JButton eastButton;
